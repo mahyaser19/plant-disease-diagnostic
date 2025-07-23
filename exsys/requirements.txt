@@ -1,0 +1,15 @@
+# This expert system uses only standard Python libraries
+# No external dependencies are required
+
+# Plant Disease Expert System Dependencies
+
+# Required dependencies
+customtkinter>=5.2.0      # Modern UI toolkit based on tkinter
+Pillow>=9.0.0             # Image handling for UI components and PDF export
+
+# Optional dependencies
+reportlab>=3.6.0          # For PDF export functionality
+matplotlib>=3.5.0         # For data visualization (optional)
+
+# Note: Tkinter is included in standard Python installations
+# If using a minimal Python installation, ensure Tkinter is available
